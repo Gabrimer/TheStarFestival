@@ -7,11 +7,13 @@ _Known as the most famous of all kingdoms, the Mushroom Kingdom was primarily ho
 This mod was made with the intent of porting the Mushroom Kingdom map from **Super Mario Galaxy**, while also adding some overall changes to the moon as a whole.
 
 ### Includes:
+
 - 4 seperate entrances to the main building
 	- The main entrance
 	- 2 common fire exits
 	- A *secret bonus* fire exit
-- 24 custom **exclusive** Mario themed scraps. List below for scrap items.
+
+- 24 **custom _exclusive_** Mario themed scraps. List below for scrap items.
 
 <details>
   <summary>SPOILERS:</summary>

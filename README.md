@@ -5,3 +5,43 @@ _Known as the most famous of all kingdoms, the Mushroom Kingdom was primarily ho
 ## Welcome to the Mushroom Kingdom!
 
 This mod was made with the intent of porting the Mushroom Kingdom map from **Super Mario Galaxy**, while also adding some overall changes to the moon as a whole.
+
+### Includes:
+- 4 seperate entrances to the main building
+	- The main entrance
+	- 2 common fire exits
+	- A *secret bonus* fire exit
+- 24 custom **exclusive** Mario themed scraps. List below for scrap items.
+
+<details>
+  <summary>SPOILERS:</summary>
+  
+  - Question Block
+  - Brick Block
+  - Coin
+  - Power Star
+  - Yoshi Egg
+  - Clock
+  - Key
+  - 6 different colored Starbits
+  	- Red Starbit
+  	- Yellow Starbit
+  	- Green Starbit
+  	- Blue Starbit
+  	- Purple Starbit
+  	- White Starbit
+  - 7 different Mushrooms
+  	- Red Mushroom
+  	- Green Mushroom
+  	- Life Mushroom
+  	- Bee Mushroom
+  	- Boo Mushroom
+  	- Rock Mushroom
+  	- Spring Mushroom
+  - 3 different Flowers
+  	- Fire Flower
+  	- Ice Flower
+  	- Cloud Flower
+  - Thwomp
+  
+</details>

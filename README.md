@@ -11,12 +11,12 @@ This mod was made with the intent of porting the Mushroom Kingdom map from **Sup
 ### Includes:
 
 <details>
-	<summary>SPOILERS:</summary>
+	<summary>Potential spoilers for those who wish to go in blindly</summary>
 
 - 4 seperate entrances to the main building
 	- The main entrance
 	- 2 common fire exits
-	- A **secret _bonus_** fire exit
+	- A warp pipe fire exit
 - 24 **custom _exclusive_** Mario themed scraps.
   	- Question Block
   	- Brick Block

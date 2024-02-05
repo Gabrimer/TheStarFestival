@@ -1,2 +1,1 @@
-# TheStarFestival
- 
+# The Star Festival

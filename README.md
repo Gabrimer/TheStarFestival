@@ -4,16 +4,16 @@ _Known as the most famous of all kingdoms, the Mushroom Kingdom was primarily ho
 
 ## Welcome to the Mushroom Kingdom!
 
-This mod was made with the intent of porting the Mushroom Kingdom map from **Super Mario Galaxy**, while also adding some overall changes to the moon as a whole.
+This mod was made with the intent of porting the Mushroom Kingdom map from **Super Mario Galaxy**, while also adding some overall changes to the moon/game as a whole.
 
 
 
 ### Includes:
 
 <details>
-	<summary>Potential spoilers for those who wish to go in blindly</summary>
+	<summary>Potential spoilers for those who wish to go in blindly:</summary>
 
-- 4 seperate entrances to the main building
+- 4 separate entrances to the main building
 	- The main entrance
 	- 2 common fire exits
 	- A warp pipe fire exit
@@ -45,5 +45,7 @@ This mod was made with the intent of porting the Mushroom Kingdom map from **Sup
   		- Ice Flower
   		- Cloud Flower
   	- Thwomp
+- An introductory song added to the start of the moon (where the ship lands)	 
+- A custom dropship including Super Mario Galaxy soundtrack and Question Blocks that store your purchased items.
   
 </details>

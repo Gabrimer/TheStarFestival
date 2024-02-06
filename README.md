@@ -5,6 +5,7 @@ _Known as the most famous of all kingdoms, the Mushroom Kingdom was primarily ho
 ## Welcome to the Mushroom Kingdom!
 
 This mod was made with the intent of porting the Mushroom Kingdom map from **Super Mario Galaxy**, while also adding some overall changes to the moon/game as a whole. It's my first public mod, so I hope that you all enjoy it! If it's received well, I'll consider making more.
+
 If you have any requests or feedback to give, I'm in the [Unofficial Lethal Company Comunity](https://discord.gg/nYcQFEpXfU) Discord server! (or just message me on Discord @Gabrimer)
 
 ### ***A LITTLE HEADS UP FOR CONTENT CREATORS: THIS MOD CONTAINS SOUNDTRACK FROM "SUPER MARIO GALAXY"***

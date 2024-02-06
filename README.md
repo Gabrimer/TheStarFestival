@@ -4,7 +4,7 @@ _Known as the most famous of all kingdoms, the Mushroom Kingdom was primarily ho
 
 ## Welcome to the Mushroom Kingdom!
 
-This mod was made with the intent of porting the Mushroom Kingdom map from **Super Mario Galaxy**, while also adding some overall changes to the moon/game as a whole.
+This mod was made with the intent of porting the Mushroom Kingdom map from **Super Mario Galaxy**, while also adding some overall changes to the moon/game as a whole. It's my first public mod, so I hope that you all enjoy it! If it's received well, I'll consider making more. If you have any requests or feedback to give, I'm in the [Unofficial Lethal Company Comunity](https://discord.gg/nYcQFEpXfU) Discord server! (or just message me on Discord @Gabrimer)
 
 ### ***A LITTLE HEADS UP FOR CONTENT CREATORS: THIS MOD CONTAINS SOUNDTRACK FROM "SUPER MARIO GALAXY"***
 
@@ -52,10 +52,14 @@ This mod was made with the intent of porting the Mushroom Kingdom map from **Sup
   
 </details>
 
+## Planned features:
+- Potential to add more scraps(?)
+
 ## Credits
 
 - Nintendo for creating and owning "Super Mario Galaxy" and the Super Mario Bros. franchise
-- [The Models Resource](https://www.models-resource.com/wii/supermariogalaxy/) for porting the Super Mario Galaxy models
+- [The Models Resource](https://www.models-resource.com) for porting the [Super Mario Galaxy](https://www.models-resource.com/wii/supermariogalaxy/) models
 - [HolographicWings](https://github.com/HolographicWings) for creating [LethalExpansion](https://github.com/HolographicWings/LethalExpansion) and [LethalSDK](https://github.com/HolographicWings/LethalSDK-Unity-Project)
+- [Pokopish](https://github.com/MartijnTielemans) for bringing me this project idea
 
-_"This mod was created purely for entertainment purposes and is not intended for commercial use. All rights to the original characters, soundtrack and game are retained by their rightful owners."_
+_"This mod was created purely for entertainment purposes and is not intended for commercial use. All rights to the original characters, models, soundtrack and game are retained by their rightful owners."_

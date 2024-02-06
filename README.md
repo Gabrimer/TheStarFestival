@@ -6,7 +6,7 @@ _Known as the most famous of all kingdoms, the Mushroom Kingdom was primarily ho
 
 This mod was made with the intent of porting the Mushroom Kingdom map from **Super Mario Galaxy**, while also adding some overall changes to the moon/game as a whole.
 
-
+***A LITTLE HEADS UP FOR CONTENT CREATORS: THIS MOD CONTAINS SOUNDTRACK FROM "SUPER MARIO GALAXY"***
 
 ### Includes:
 
@@ -45,7 +45,9 @@ This mod was made with the intent of porting the Mushroom Kingdom map from **Sup
   		- Ice Flower
   		- Cloud Flower
   	- Thwomp
-- An introductory song added to the start of the moon (where the ship lands)	 
-- A custom dropship including Super Mario Galaxy soundtrack and Question Blocks that store your purchased items.
+- An introductory song added to the start of the moon (where the ship lands)
+	- Song used: "Overture - Super Mario Galaxy" 
+- New dropship including custom soundtrack and Question Blocks that store your purchased items.
+	- Song used: "Mission Select - Super Mario Galaxy"
   
 </details>

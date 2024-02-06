@@ -9,7 +9,7 @@ This mod was made with the intent of porting the Mushroom Kingdom map from **Sup
 If you have any requests or feedback to give, I'm in the [Unofficial Lethal Company Comunity](https://discord.gg/nYcQFEpXfU) Discord server! (or just message me on Discord @Gabrimer)
 
 > [!CAUTION]
-> ***A LITTLE HEADS UP FOR CONTENT CREATORS: THIS MOD CONTAINS SOUNDTRACK FROM "SUPER MARIO GALAXY"***
+> ***A HEADS UP FOR CONTENT CREATORS: THIS MOD CONTAINS SOUNDTRACK FROM "SUPER MARIO GALAXY"***
 
 ### Includes:
 

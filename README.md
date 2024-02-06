@@ -55,6 +55,7 @@ This mod was made with the intent of porting the Mushroom Kingdom map from **Sup
 ## Credits
 
 - Nintendo for creating and owning "Super Mario Galaxy" and the Super Mario Bros. franchise
-- @HolographicWings for creating [LethalExpansion](https://github.com/HolographicWings/LethalExpansion) and [LethalSDK](https://github.com/HolographicWings/LethalSDK-Unity-Project)
+- [The Models Resource](https://www.models-resource.com/wii/supermariogalaxy/) for porting the Super Mario Galaxy models
+- [HolographicWings](https://github.com/HolographicWings) for creating [LethalExpansion](https://github.com/HolographicWings/LethalExpansion) and [LethalSDK](https://github.com/HolographicWings/LethalSDK-Unity-Project)
 
 _"This mod was created purely for entertainment purposes and is not intended for commercial use. All rights to the original characters, soundtrack and game are retained by their rightful owners."_

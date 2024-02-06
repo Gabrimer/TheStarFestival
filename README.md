@@ -6,7 +6,7 @@ _Known as the most famous of all kingdoms, the Mushroom Kingdom was primarily ho
 
 This mod was made with the intent of porting the Mushroom Kingdom map from **Super Mario Galaxy**, while also adding some overall changes to the moon/game as a whole.
 
-***A LITTLE HEADS UP FOR CONTENT CREATORS: THIS MOD CONTAINS SOUNDTRACK FROM "SUPER MARIO GALAXY"***
+### ***A LITTLE HEADS UP FOR CONTENT CREATORS: THIS MOD CONTAINS SOUNDTRACK FROM "SUPER MARIO GALAXY"***
 
 ### Includes:
 

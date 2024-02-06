@@ -57,6 +57,9 @@ If you have any requests or feedback to give, I'm in the [Unofficial Lethal Comp
 ## Planned features:
 - Potential to add more scraps(?)
 
+## Known bugs:
+- N/A
+
 ## Credits
 
 - Nintendo for creating and owning "Super Mario Galaxy" and the Super Mario Bros. franchise
@@ -64,4 +67,4 @@ If you have any requests or feedback to give, I'm in the [Unofficial Lethal Comp
 - [HolographicWings](https://github.com/HolographicWings) for creating [LethalExpansion](https://github.com/HolographicWings/LethalExpansion) and [LethalSDK](https://github.com/HolographicWings/LethalSDK-Unity-Project)
 - [Pokopish](https://github.com/MartijnTielemans) for bringing me this project idea
 
-_"This mod was created purely for entertainment purposes and is not intended for commercial use. All rights to the original characters, models, soundtrack and game are retained by their rightful owners."_
+***This mod was created purely for entertainment purposes and is not intended for commercial use. All rights to the original characters, models, soundtrack and game are retained by their rightful owners.***
